@@ -35,5 +35,4 @@ Other commands like `generating components` and test are listed below:
 - `lint`: runs the linter in all components and pages
 - `test`: runs jest to test all components and pages
 - `generate <ComponentName>`: generates a new component under `src/components` folder
-- `build-storybook`: create the build version of storybook
 
